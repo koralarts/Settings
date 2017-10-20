@@ -1,0 +1,11 @@
+{
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "editor.cursorBlinking": "smooth",
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "window.title": "${activeEditorLong}${separator}${rootname}",
+    "window.zoomLevel": -1,
+    "files.trimTrailingWhitespace": true,
+    "editor.fontFamily": "American Typewriter, Menlo, Monaco, 'Courier New', monospace"
+  }
