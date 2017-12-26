@@ -7,5 +7,5 @@
     "window.title": "${activeEditorLong}${separator}${rootname}",
     "window.zoomLevel": -1,
     "files.trimTrailingWhitespace": true,
-    "editor.fontFamily": "American Typewriter, Menlo, Monaco, 'Courier New', monospace"
+    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace"
   }
