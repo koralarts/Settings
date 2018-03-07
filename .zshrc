@@ -86,3 +86,7 @@ source $ZSH/oh-my-zsh.sh
 alias c="clear"
 alias squish="pngquant -f --speed 1 --ext .png 32 -- *.png"
 alias serv="python -m SimpleHTTPServer"
+
+# GIT ALIASES
+alias glur="git pull --rebase upstream $(current_branch)"
+alias ggpf="git push --force origin $(current_branch)"
