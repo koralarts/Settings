@@ -90,4 +90,4 @@ alias serv="python -m SimpleHTTPServer"
 # GIT ALIASES
 alias glur="git pull --rebase upstream $(current_branch)"
 alias ggpf="git push --force origin $(current_branch)"
-alias ggpuf="git push upstream $(current_branch)"
+alias ggpu="git push upstream $(current_branch)"
