@@ -1,2 +1,3 @@
 # Settings
-Miscellaneous Settings Files
+- Oh My Zsh
+- VS Code
