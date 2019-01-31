@@ -1,4 +1,5 @@
 {
+    "editor.rulers": 80,
     "editor.tabSize": 2,
     "editor.wordWrap": "on",
     "editor.cursorBlinking": "smooth",
@@ -7,5 +8,13 @@
     "window.title": "${activeEditorLong}${separator}${rootname}",
     "window.zoomLevel": -1,
     "files.trimTrailingWhitespace": true,
-    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace"
+    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+    "workbench.colorTheme": "Default High Contrast",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "editor.minimap.maxColumn": 80,
+    "editor.renderWhitespace": "all",
+    "files.insertFinalNewline": true,
+    "breadcrumbs.enabled": true
 }
