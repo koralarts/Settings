@@ -110,4 +110,8 @@ alias glol="git log --graph --oneline --decorate"
 # ADB ALIASES
 alias androidUtilsYo="adb"
 
+# DEEPLINK ALIAS
+alias deepIOS="xcrun simctl openurl booted $1"
+alias deepAndroid="adb shell -W -a android.intent.action.VIEW $1 $2"
+
 #alias cd="echo cd: no such file or directory: $1"
